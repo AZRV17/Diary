@@ -1,0 +1,15 @@
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\Diary\Diary\bin\Debug\net6.0\Diary.exe
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\Diary\Diary\bin\Debug\net6.0\Diary.deps.json
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\Diary\Diary\bin\Debug\net6.0\Diary.runtimeconfig.json
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\Diary\Diary\bin\Debug\net6.0\Diary.dll
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\Diary\Diary\bin\Debug\net6.0\Diary.pdb
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\Diary\Diary\obj\Debug\net6.0\Diary.csproj.AssemblyReference.cache
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\Diary\Diary\obj\Debug\net6.0\Diary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\Diary\Diary\obj\Debug\net6.0\Diary.AssemblyInfoInputs.cache
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\Diary\Diary\obj\Debug\net6.0\Diary.AssemblyInfo.cs
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\Diary\Diary\obj\Debug\net6.0\Diary.csproj.CoreCompileInputs.cache
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\Diary\Diary\obj\Debug\net6.0\Diary.dll
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\Diary\Diary\obj\Debug\net6.0\refint\Diary.dll
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\Diary\Diary\obj\Debug\net6.0\Diary.pdb
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\Diary\Diary\obj\Debug\net6.0\Diary.genruntimeconfig.cache
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\Diary\Diary\obj\Debug\net6.0\ref\Diary.dll
